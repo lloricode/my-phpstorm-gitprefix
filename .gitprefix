@@ -1,0 +1,50 @@
+:bug:     BugFix
+:lock:    SecurityFix // Comment
+:recycle: Refactoring
+:books:   Documentation
+
+/* string prefix */
+|core:| improve core class
+|feat:| new feature
+|fix:| bug fix
+|docs:| changes to documentation (README.md, CHANGELOG.md, LICENSE.md)
+|style:| formatting, missing semicolons, etc., no code change
+|refactor:| refactoring code
+|test:| adding missing test, refactoring test; no production code change
+|chore:| updating grunt tasks, etc.; no production code change
+|git:| changes about git, mainly .gitignore updates
+
+commit {
+    :art: art
+    :angel: angel
+    :+1: thumbs up
+    :beer: beer
+    :recycle: recycle
+    :new: new
+    :kiss: kiss
+    :bug: bugs
+    :rocket: rocket
+    :bullettrain_side: bullettrain
+    :coffee: coffee
+    :poop: poop
+    :microphone: microphone
+    :cloud: cloud
+    :confetti_ball: confeti
+    :white_check_mark: white check
+    :construction: construction
+}
+
+
+merge {
+    :art: test
+    > test
+}
+
+tag {
+    :+1: test
+}
+
+test {
+    :tada: test
+    |contruction| Working
+}
