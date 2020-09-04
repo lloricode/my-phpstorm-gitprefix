@@ -42,6 +42,10 @@ commit {
     :heavy_check_mark: heavy_check_mark
     :ballot_box_with_check: ballot_box_with_check
     :white_check_mark: white_check_mark
+    :currency_exchange: currency_exchange
+    :negative_squared_cross_mark: negative_squared_cross_mark
+    :name_badge: name_badge
+    :hurtrealbad: hurtrealbad
 }
 
 
