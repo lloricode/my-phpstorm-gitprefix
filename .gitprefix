@@ -15,43 +15,43 @@
 |git:| changes about git, mainly .gitignore updates
 
 commit {
-    :art: art
-    :angel: angel
-    :+1: thumbs up
-    :beer: beer
-    :recycle: recycle
-    :new: new
-    :kiss: kiss
-    :bug: bugs
-    :rocket: rocket
-    :bullettrain_side: bullettrain
-    :coffee: coffee
-    :poop: poop
-    :microphone: microphone
-    :cloud: cloud
-    :confetti_ball: confeti
-    :white_check_mark: white check
-    :construction: construction
-    :heavy_exclamation_mark: heavy_exclamation_mark
-    :money_with_wings: money_with_wings
-    :moneybag: moneybag
-    :notebook: notebook
-    :construction_worker: construction_worker
-    :anchor: anchor
-    :a: a
-    :heavy_check_mark: heavy_check_mark
-    :ballot_box_with_check: ballot_box_with_check
-    :white_check_mark: white_check_mark
-    :currency_exchange: currency_exchange
-    :negative_squared_cross_mark: negative_squared_cross_mark
-    :name_badge: name_badge
-    :hurtrealbad: hurtrealbad
-    :pencil2: pencil2
-    :pencil: pencil
-    :handbag: handbag
-    :100: 100
-    :eyeglasses: eyeglasses
-    :eyes: eyes
+    :art:
+    :angel:
+    :+1:
+    :beer:
+    :recycle:
+    :new:
+    :kiss:
+    :bug:
+    :rocket:
+    :bullettrain_side:
+    :coffee:
+    :poop:
+    :microphone:
+    :cloud:
+    :confetti_ball:
+    :white_check_mark:
+    :construction:
+    :heavy_exclamation_mark:
+    :money_with_wings:
+    :moneybag:
+    :notebook:
+    :construction_worker:
+    :anchor:
+    :a:
+    :heavy_check_mark:
+    :ballot_box_with_check:
+    :white_check_mark:
+    :currency_exchange:
+    :negative_squared_cross_mark:
+    :name_badge:
+    :hurtrealbad:
+    :pencil2:
+    :pencil:
+    :handbag:
+    :100:
+    :eyeglasses:
+    :eyes:
     :mailbox:
     :mailbox_closed:
     :mailbox_with_mail:
