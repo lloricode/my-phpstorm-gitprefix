@@ -59,6 +59,15 @@ commit {
     :e-mail:
     :email:
     :police_car:
+    :mobile_phone_off:
+    :no_mobile_phones:
+    :oncoming_automobile:
+    :phone:
+    :headphones:
+    :headphones:
+    :iphone:
+    :telephone:
+    :telephone_receiver:
 }
 
 
