@@ -71,6 +71,8 @@ commit {
     :key:
     :closed_lock_with_key:
     :clock2:
+    :file_folder:
+    :open_file_folder:
 }
 
 
